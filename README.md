@@ -1,1 +1,1 @@
-# Shri-ds100cr-iNeuron_Data_scientist_Assignmets
+# iNeuron_Data_scientist_Assignmets
